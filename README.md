@@ -43,7 +43,6 @@ It is part of a broader cybersecurity portfolio focused on developing practical,
 
 | Folder | Purpose |
 |--------|---------|
-| `architecture/` | Network layout and topology diagrams |
 | `setup/` | Setup notes and lab configuration steps |
 | `logs/` | Collected log files (UFW, syslog, auth.log, PCAPs) |
 | `detection-rules/` | Custom detection rules (e.g., Wazuh, Logstash) |
@@ -51,19 +50,6 @@ It is part of a broader cybersecurity portfolio focused on developing practical,
 | `incident-report/` | Written analysis of simulated attacks |
 | `screenshots/` | Screenshots of alerts, dashboards, and CLI output |
 | `tools-used.md` | List of tools, commands, and references used |
-
----
-
-## Project Status
-
-| Task | Status |
-|------|--------|
-| Lab environment setup | ⬜️ In Progress |
-| Port scan simulation | ⬜️ In Progress |
-| Logging & capture | ⬜️ In Progress |
-| Detection rule creation | ⬜️ Not started |
-| Incident reporting | ⬜️ Not started |
-| Automation script | ⬜️ Not started |
 
 ---
 
@@ -82,7 +68,7 @@ It is part of a broader cybersecurity portfolio focused on developing practical,
 
 - Network-level threat detection
 - Log analysis and parsing
-- SIEM rule writing (manual or automated)
+- SIEM
 - System configuration and hardening
 - Incident response documentation
 - Scripting for detection automation
