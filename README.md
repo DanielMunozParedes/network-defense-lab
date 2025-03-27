@@ -22,7 +22,7 @@ It is part of a broader cybersecurity portfolio focused on developing practical,
 |----------|-------------|
 | Kali Linux | Simulates attacker activity (Nmap, Hydra, Netcat) |
 | Ubuntu Server | Target system for logging and detection |
-| Wazuh (optional) | SIEM/log management and alert generation |
+| Wazuh | SIEM/log management and alert generation |
 | Tools | UFW, syslog, tcpdump, Wireshark, Python, Bash |
 
 ### Architecture Diagram: [`architecture/lab-diagram.png`](architecture/lab-diagram.png)
